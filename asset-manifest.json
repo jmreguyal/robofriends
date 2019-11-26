@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.3df96678.chunk.css",
+    "main.js": "/robofriends/static/js/main.19e7177a.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.19e7177a.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.a1071882.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.a1071882.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1f39b60e.chunk.js": "/robofriends/static/js/2.1f39b60e.chunk.js",
+    "static/js/2.1f39b60e.chunk.js.map": "/robofriends/static/js/2.1f39b60e.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.ead46d74db48888ea7dde2093b8bc4fd.js": "/robofriends/precache-manifest.ead46d74db48888ea7dde2093b8bc4fd.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3df96678.chunk.css.map": "/robofriends/static/css/main.3df96678.chunk.css.map",
+    "static/media/App.css": "/robofriends/static/media/KaushanScript-Regular.7a814d9d.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1071882.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1f39b60e.chunk.js",
+    "static/css/main.3df96678.chunk.css",
+    "static/js/main.19e7177a.chunk.js"
+  ]
+}
